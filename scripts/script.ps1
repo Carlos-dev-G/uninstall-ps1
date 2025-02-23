@@ -1,4 +1,4 @@
-# 1 -  verificar permisos de administrador
+# 1 - Verificar permisos de administrador
 $isAdmin = [Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()
 if (-not $isAdmin.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
 
@@ -8,3 +8,6 @@ if (-not $isAdmin.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrato
 }
 
 Write-Host "Tienes permisos de administrador. Continuando con el script..."
+
+# Esperar que el usuario presione Enter para continuar
+Read-Host -Prompt "Presiona Enter para continuar"
