@@ -20,8 +20,3 @@ iex (iwr 'https://raw.githubusercontent.com/Carlos-dev-G/uninstall-ps1/refs/head
 ```powershell
 iex (iwr 'https://raw.githubusercontent.com/Carlos-dev-G/uninstall-ps1/refs/heads/main/scripts/skype.ps1' -UseBasicParsing).Content
 ```
-
----
-
-Este script eliminará Skype y sus archivos residuales.  
-Si necesitas agregar más aplicaciones, dime cuáles. 😊
