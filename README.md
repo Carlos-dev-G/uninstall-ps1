@@ -2,7 +2,7 @@
 Este es un script de PowerShell diseñado para eliminar Microsoft Edge de manera automática y completa de un sistema Windows. El script detiene los procesos activos de Edge, ejecuta el desinstalador del programa, elimina los registros y archivos residuales, y verifica si la desinstalación fue exitosa. Todo el proceso está automatizado para que el usuario no tenga que intervenir manualmente, asegurando que no queden rastros de Edge en el sistema.
 
 ```ps1
-iex (iwr  -UseBasicParsing).Content
+iex (iwr 'https://raw.githubusercontent.com/Carlos-dev-G/microsoft-edge-killer/refs/heads/main/scripts/script.ps1' -UseBasicParsing).Content
 ```
 
 ### **Índice:**
