@@ -1,7 +1,3 @@
-Aquí tienes la versión corregida y mejor organizada:  
-
----
-
 ### **📜 Lista de Scripts de PowerShell**  
 Scripts para desinstalar aplicaciones innecesarias de Windows.  
 
