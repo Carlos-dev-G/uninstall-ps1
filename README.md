@@ -32,3 +32,7 @@ iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main
 ```powershell
 iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/tu_telefono.ps1' -UseBasicParsing).Content
 ```
+✅ **Sugerencias**  
+```powershell
+iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/sugerencias.ps1' -UseBasicParsing).Content
+```
