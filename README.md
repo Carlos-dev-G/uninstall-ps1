@@ -40,7 +40,7 @@ iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main
 ```powershell
 iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/people.ps1' -UseBasicParsing).Content
 ```
-✅ **Contactos/Microsoft.people**  
+✅ **Correo**  
 ```powershell
 iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/correo.ps1' -UseBasicParsing).Content
 ```
