@@ -1,5 +1,5 @@
 # Ejecutar como administrador
-$app = "Microsoft.MicrosoftPaint"
+$app = "Microsoft.Paint3D"
 
 Get-AppxPackage -AllUsers -Name $app | Remove-AppxPackage
 
