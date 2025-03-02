@@ -107,11 +107,6 @@ iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main
   ```powershell
   iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/Groove.ps1' -UseBasicParsing).Content
   ```
-- ✅ **Visual Studio**  
-  ```powershell
-  iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/visualstudio.ps1' -UseBasicParsing).Content
-  ```
-
 ---
 
 ¡Con estos scripts puedes desinstalar las aplicaciones que no necesites de tu sistema!  
