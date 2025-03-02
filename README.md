@@ -80,7 +80,3 @@ iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main
 ```powershell
 iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/Groove.ps1' -UseBasicParsing).Content
 ```
-✅ **Paint 3D**  
-```powershell
-iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/paint3d.ps1' -UseBasicParsing).Content
-```
