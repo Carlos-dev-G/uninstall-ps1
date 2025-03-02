@@ -76,3 +76,7 @@ iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main
 ```powershell
 iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/ZuneVideo.ps1' -UseBasicParsing).Content
 ```
+✅ **Groove Music**  
+```powershell
+iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/Groove.ps1' -UseBasicParsing).Content
+```
