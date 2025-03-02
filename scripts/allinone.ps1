@@ -1,7 +1,7 @@
 # Ejecutar como administrador
 
 # Desinstalar Microsoft Edge
-# iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/edge.ps1' -UseBasicParsing).Content
+iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/edge.ps1' -UseBasicParsing).Content
 
 # Desinstalar Cortana
 iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/cortana.ps1' -UseBasicParsing).Content
