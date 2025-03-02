@@ -24,3 +24,7 @@ iex (iwr 'https://raw.githubusercontent.com/Carlos-dev-G/uninstall-ps1/refs/head
 ```powershell
 iex (iwr 'https://raw.githubusercontent.com/Carlos-dev-G/uninstall-ps1/refs/heads/main/scripts/xbox.ps1' -UseBasicParsing).Content
 ```
+✅ **Visor 3D**  
+```powershell
+iex (iwr 'https://raw.githubusercontent.com/Carlos-dev-G/uninstall-ps1/refs/heads/main/scripts/visor3d.ps1' -UseBasicParsing).Content
+```
