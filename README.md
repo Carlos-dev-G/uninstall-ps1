@@ -38,9 +38,13 @@ iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main
 ```
 ✅ **Contactos/Microsoft.people**  
 ```powershell
-iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/people.ps1' -UseBasicParsing).Content
+iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/office.ps1' -UseBasicParsing).Content
 ```
 ✅ **Correo**  
+```powershell
+iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/correo.ps1' -UseBasicParsing).Content
+```
+✅ **office**  
 ```powershell
 iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/correo.ps1' -UseBasicParsing).Content
 ```
