@@ -64,3 +64,7 @@ iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main
 ```powershell
 iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/MicrosoftSolitaireCollection.ps1' -UseBasicParsing).Content
 ```
+✅ **Microsoft.GetHelp**  
+```powershell
+iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/GetHelp.ps1' -UseBasicParsing).Content
+```
