@@ -68,3 +68,7 @@ iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main
 ```powershell
 iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/GetHelp.ps1' -UseBasicParsing).Content
 ```
+✅ **MixedReality**  
+```powershell
+iex (iwr 'https://raw.githubusercontent.com/baa4ts/uninstall-ps1/refs/heads/main/scripts/MixedReality.ps1' -UseBasicParsing).Content
+```
